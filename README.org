@@ -1,0 +1,9 @@
+* cl-langutils
+
+A Common Lisp natural language processing toolkit
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/eslick/cl-langutils.git |
+| commit  | 38beec7                                        |
+| systems | cl-langutils                                   |
+|---------+------------------------------------------------|
